@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Quicksand:400,700&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Quicksand:400,700&display=swap");
 
 body {
-  font-family: 'Quicksand', sans-serif;
+  font-family: "Quicksand", sans-serif;
   margin: 0;
   padding: 0;
 }
@@ -10,8 +10,9 @@ header {
   display: inline;
 }
 
-h2, h3 {
-  color: #da723c
+h2,
+h3 {
+  color: #da723c;
 }
 
 main {
@@ -100,6 +101,6 @@ aside {
   margin-top: 20px;
 }
 
-table {
-  justify-content: "center",
+.table th {
+  text-align: start;
 }
